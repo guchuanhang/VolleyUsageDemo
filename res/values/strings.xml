@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="simple_introduce">简介</string>
+	<string name="listing">列表</string>
+	<string name="format_userId" formatted="false">接收人:/s\t\t 发送人：/s</string>
+	<string name="format_other" formatted="false">创建时间：/s\t\t 是否@我：/s</string>
+	<!--  -->
+	<string name="app_name">Volley+GsonDemo</string>
+	<string name="my">我的</string>
+	<string name="subscribe">订阅</string>
+	<string name="broadcast">直播</string>
+	<string name="TV">电台</string>
+	<string name="subcribed_album">订阅的专辑</string>
+	<string name="my_album">我的专辑</string>
+	<string name="album2">专辑</string>
+	<string name="audio">声音</string>
+	<string name="focused_player">关注的主播</string>
+	<string name="download_list">下载列表</string>
+	<string name="bind_accounts">账号绑定</string>
+	<string name="ard_download_files">已下载文件</string>
+	<string name="my_fans">我的粉丝</string>
+	<string name="cancel">取消</string>
+	<string name="call">呼叫</string>
+	<string name="trans">转采</string>
+	<string name="ard_trans">已转采</string>
+	<string name="good">赞</string>
+	<string name="ard_good">已赞</string>
+	<string name="comment">评论</string>
+	<!-- mms播放用到的 -->
+	<string name="invalid_location">The location %1$s cannot be played.</string>
+	<string name="invalid_location_play">音频文件无法打开</string>
+	<string name="info">Information</string>
+	<string name="error_not_compatible">Sorry, your device is currently not supported by this version of VLC for Android™.</string>
+	<string name="error_message_is">The error message is (please mention this when debugging):\n</string>
+	<string name="title"></string>
+	<string name="artist"></string>
+	<string name="album">Album</string>
+	<string name="widget_name" translatable="false">VLC mini player</string>
+	<string name="loading">加载中...</string>
+	<string name="please_wait"></string>
+	<string name="ringtone_error">An error occurred while setting the ringtone.</string>
+	<string name="ringtone_set">The file \'%1$s\' was set as the ringtone.</string>
+	<string name="unknown_artist"></string>
+	<string name="unknown_album"></string>
+	<string name="error_problem">Sorry, VLC for Android had a problem loading and had to close.</string>
+	<!-- 主页面 -->
+	<string name="main_news">动态</string>
+	<string name="main_liveprogram">直播</string>
+	<string name="main_find">发现</string>
+	<string name="male">男</string>
+	<string name="female">女</string>
+	<string name="unknown">你猜</string>
+	<string name="main_me">我的</string>
+	<!-- 动态 -->
+	<string name="viewpager_indicator">%1$d/%2$d</string>
+	<!-- 播放界面 -->
+	<string name="playing_telephone">热线电话</string>
+	<string name="playing_chattingroom">聊天室</string>
+	<string name="playing_share">分享</string>
+	<string name="playing_more">更多</string>
+	<string name="news">新闻</string>
+	<string name="economic">经济</string>
+	<string name="administrative_supervision">政务监督热线</string>
+	<string name="xiao_luo_luo">小罗罗崩木根</string>
+	<string name="test_data">51234</string>
+	<string name="nosubscribe">未订阅</string>
+	<string name="jn_radio">济南电台</string>
+	<string name="nation_radio">国家电台</string>
+	<string name="province_city">省市电台</string>
+	<string name="school_yard">校园电台</string>
+	<string name="no_data">暂时没有相关数据</string>
+	<string name="radio_station">电台</string>
+	<string name="column">栏目</string>
+	<string name="broadcasting">正在直播</string>
+	<string name="broadcastting_data">12月 20日	20:00</string>
+	<string name="index">首页</string>
+	<string name="message">消息</string>
+	<string name="private_message">个人信息</string>
+	<string name="sum_grade">积分</string>
+	<string name="exist_account">退出账号</string>
+	<string name="setting">设置</string>
+	<string name="listen_friend">听友</string>
+	<string name="download">下载</string>
+	<string name="topic">话题</string>
+	<string name="joined_topic">参与的话题</string>
+	<string name="my_topic">我的话题</string>
+	<string name="my_grade">我的积分</string>
+	<string name="voice">声音</string>
+	<string name="saved_voice">收藏的声音</string>
+	<string name="my_voice">我的声音</string>
+	<string name="activity">活动</string>
+	<string name="joined_activity">参与的活动</string>
+	<string name="sent_private_letter">发出的私信</string>
+	<string name="received_private_letter">收到的私信</string>
+	<string name="sent_comment">发出的评论</string>
+	<string name="rsv_comment">收到的评论</string>
+	<string name="sent_good">发出的赞</string>
+	<string name="rsv_good">收到的赞</string>
+	<string name="my_activity">我的活动</string>
+	<string name="play_record">播放记录</string>
+	<string name="function">功能</string>
+	<string name="other">其他</string>
+	<string name="only_wifi">仅WIFI联网</string>
+	<string name="clear_memory">清理缓存 </string>
+	<string name="send_set">推送设置 </string>
+	<string name="stop_continue">断点续听</string>
+	<string name="close_on_time">定时关闭 </string>
+	<string name="usesage_help">使用帮助 </string>
+	<string name="feedback_suggestion">反馈建议 </string>
+	<string name="connect_us">联系我们 </string>
+	<string name="check_update">检查更新</string>
+	<string name="about_dingdong">关于叮咚</string>
+	<string name="show_message">显示以下内容</string>
+	<string name="push_management">推送管理</string>
+	<string name="private_management">隐私管理</string>
+	<string name="voice_management">声音管理</string>
+	<string name="topic_management">话题管理</string>
+	<string name="activity_management">活动管理</string>
+	<string name="management">管理</string>
+	<string name="test_nick_name">木制扬声器</string>
+	<string name="test_msg">我就是我，不一样的烟火</string>
+	<string-array name="index_titles">
+		<item>账号信息</item>
+		<item>个性签名</item>
+		<item>个人动态</item>
+		<item>相册</item>
+	</string-array>
+	<string name="release">发布</string>
+	<string name="release_news">发动态</string>
+	<string name="release_voice">发声音</string>
+	<string name="account_msg">账号信息</string>
+	<string name="nickname">昵称</string>
+	<string name="sex">性别</string>
+	<string name="area">地区</string>
+	<string name="profession">职业</string>
+	<string name="private_news">个人动态</string>
+	<string name="style_signature">个性签名</string>
+	<string name="mobile_bind">手机绑定</string>
+	<string name="weibo_bind">微博绑定</string>
+	<string name="renren_bind">人人绑定</string>
+	<string name="smail_msg_bind">微信绑定</string>
+	<string name="email_bind">邮箱绑定</string>
+	<string name="qq_bind">qq绑定</string>
+	<string name="sign_in">签到</string>
+	<string name="aleady_sign_in">已签到</string>
+	<string name="anchor">主播</string>
+	<!-- 发现界面 -->
+	<string name="shake_shake">摇一摇</string>
+	<string name="hint_main_find_search">搜索主播、专辑、声音</string>
+	<!-- "我的"-"消息"页面 -->
+	<string-array name="message_titles">
+		<item>评论</item>
+		<item>赞</item>
+		<item>私信</item>
+		<item>我</item>
+	</string-array>
+	<!-- "我的"-"积分"页面 -->
+	<string name="int_sum_grade">3870分</string>
+	<string name="sum_test_msg">木质扬声器</string>
+	<string name="account_level">账号等级</string>
+	<string name="sum_grade_notes">积分记录</string>
+	<string name="get_sum_grade">赚积分</string>
+	<string name="sum_grade_change">积分兑换</string>
+	<string name="sum_grade_rule">积分规则</string>
+	<string name="birthday">生日</string>
+	<string name="year">年</string>
+	<string name="month">月</string>
+	<string name="region">地区</string>
+	<string name="province">省</string>
+	<string name="city">市</string>
+	<string-array name="test_province_data">
+		<item>山东省</item>
+		<item>广东省</item>
+		<item>云南省</item>
+	</string-array>
+	<string-array name="test_shandong">
+		<item>济南市</item>
+		<item>青岛市</item>
+		<item>泰安市</item>
+	</string-array>
+	<string-array name="test_guangdong">
+		<item>广州市</item>
+		<item>惠州市</item>
+		<item>深圳市</item>
+	</string-array>
+	<string-array name="test_yunnan">
+		<item>昆明市</item>
+	</string-array>
+	<string-array name="test_year">
+		<item>1990</item>
+		<item>1991</item>
+		<item>1992</item>
+		<item>1993</item>
+		<item>1994</item>
+		<item>1995</item>
+		<item>1996</item>
+		<item>1997</item>
+		<item>1998</item>
+		<item>1999</item>
+		<item>1920</item>
+	</string-array>
+	<string-array name="test_month">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+	</string-array>
+	<!-- 发布 -->
+	<string name="add_music">添加音乐</string>
+	<string name="clock_stop">定时停止</string>
+	<string name="clock_stop_play">定时停止播放</string>
+	<!-- 节目单 -->
+	<string name="menuList">节目单</string>
+	<string name="yesterday">昨天</string>
+	<string name="today">今天</string>
+	<string name="tomorrow">明天</string>
+	<string name="title1">夜色阑珊</string>
+	<string name="title2">边走边聊</string>
+	<string name="time1">01:00-10:00</string>
+	<string name="time2">02:00-12:00</string>
+	<string name="flag">回听</string>
+	<string name="flag_order">预约</string>
+	<string-array name="test_clock_times">
+		<item>10</item>
+		<item>20</item>
+		<item>30</item>
+		<item>60</item>
+		<item>90</item>
+	</string-array>
+	<string name="test_ten_minute">10分钟</string>
+	<string name="test_time">10:10</string>
+	<!-- 录音界面 -->
+	<string name="click_to_add_music">点击按钮可添加音乐</string>
+	<string name="input_music_name">输入歌曲名</string>
+	<string name="select_album">选择专辑</string>
+	<string name="create">新建</string>
+	<!-- news fragment -->
+	<string name="do_zan">赞</string>
+	<string name="do_comment">评论</string>
+	<string name="delete">删除</string>
+	<string name="focus">关注</string>
+	<string name="fans">粉丝</string>
+	<string name="private_msg">私信</string>
+	<string name="at_me">\@我</string>
+	<!-- 直播界面 -->
+	<string name="listen_oldsong">聆听老歌</string>
+	<string name="very_think">非想非非想</string>
+	<string name="tai_gang">抬杠</string>
+	<string name="juzi_song">橘子音乐</string>
+	<string name="song_weitingbang">音乐微听榜</string>
+	<string name="transport">交通</string>
+	<string name="art">文艺</string>
+	<string name="story">故事</string>
+	<string name="mycar">私家车</string>
+	<string name="music">音乐</string>
+	<string name="count">34512</string>
+	<string name="local_radio">本地电台</string>
+	<string name="my_subscribe">我的预约</string>
+	<string name="brocast_radio">广播电台</string>
+	<string name="school_radio">校园电台</string>
+	<!-- 登陆和注册 -->
+	<string name="username">用户名：</string>
+	<string name="phone">手机号：</string>
+	<string name="user_email_phone">邮箱/手机号</string>
+	<string name="user_email">邮　箱：</string>
+	<string name="password">密　码：</string>
+	<string name="isSurePassword">验证码：</string>
+	<string name="user_cancel">取消</string>
+	<string name="user_login">登录</string>
+	<string name="register">注册</string>
+	<string name="forget_password">忘记密码？</string>
+	<string name="use_other">或者您使用以下账号直接登录</string>
+	<string name="qq_login">QQ账号登录</string>
+	<string name="weibo_login">新浪微博登录</string>
+	<string name="renren_login">人人网账号登录</string>
+	<string name="try_try">不想登录，先试试看</string>
+	<string name="no_account">没有以上账号？</string>
+	<string name="password_login">密码</string>
+	<string name="not_known">未知</string>
+	<!-- 搜索 -->
+	<string name="all">全部</string>
+	<string name="search_anchors">主播</string>
+	<string name="search_album">专辑</string>
+	<string name="search_audio">声音</string>
+	<string name="searching">正在获取，请稍候&#8230;</string>
+	<string name="time_out">获取信息超时，请稍后再试！</string>
+	<string name="net_fail">网络已断开，请检查网络设置！</string>
+	<string name="info_unbind">该账号已绑定，请先解绑！</string>
+	<string name="bind_third">绑定第三方账号</string>
+	<string name="bind_format" formatted="false">%s(%s)</string>
+	<string name="go_bind">(去绑定)</string>
+	<string name="bind">绑定</string>
+	<string name="upload_fail">文件上传失败！</string>
+	<string name="upload_success">文件上传成功！</string>
+	<string name="uploading">动态更新中，请稍候...</string>
+	<!-- 活动 -->
+	<string name="grade">比赛成绩</string>
+	<string name="review">精彩回顾</string>
+	<string name="activity_finish">主持人大赛圆满结束</string>
+	<string name="recommend_activity">推荐</string>
+	<string name="new_activity">最新</string>
+	<string name="hot_activity">最热</string>
+	<string name="name">姓名</string>
+	<string name="contact_way">联系方式</string>
+	<string name="contact_phone">联系电话</string>
+	<string name="college_major">学校专业</string>
+	<string name="work_experience">工作经验</string>
+	<string name="profile">个人简历</string>
+	<string name="production_upload">作品上传</string>
+	<string name="upload_finish">上传完成!</string>
+	<string name="click_finish">点击完成>></string>
+	<string name="get_auth_code">获取验证码</string>
+	<string name="add2_download_queue_info">已经加入下载列表中！</string>
+	<string name="cover">封面</string>
+	<!-- 下面是分享、登陆的提示信息 -->
+	<string name="share_success">分享成功!</string>
+	<string name="share_cancel">分享取消！</string>
+	<string name="share_fail">分享失败！</string>
+	<string name="share_deny">分享被拒绝！</string>
+	<string name="login_success">登陆成功！</string>
+	<string name="login_fail">登陆失败！</string>
+	<string name="login_cancel">登陆取消！</string>
+	<string name="login_deny">登陆被拒绝！</string>
+	<string name="share">分享</string>
+	<string name="send">发送</string>
+	<string name="crop">裁剪</string>
+	<string name="sign_up_date">报名日期</string>
+	<string name="match_date">比赛日期</string>
+	<string name="activity_descrption">活动说明</string>
+	<string name="activity_effect_format" formatted="false">播放: %s 赞: %s 评论: %s</string>
+	<string name="activity_time_format" formatted="false">%s \' %s \'\'</string>
+	<string name="save">保存</string>
+	<string name="title_activity_reset_password">修改密码</string>
+	<string name="playing_no_live_anchor">（主播）</string>
+	<string name="menu_list">节目单</string>
+	<string name="view_channel_detail">查看频道详情</string>
+	<string name="view_program_detail">查看节目详情</string>
+	<string name="report">举报</string>
+	<string name="title_activity_get_back_password">GetBackPasswordActivity</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="jianjie">	    叮咚fm作为一款有声内容分享平台，以济南人民广播电台七大频率节目为基础，利用平台优势,传统媒体、网络媒体、自媒体共享合作，收录新闻资讯、有声小说、教育培训、财经科技等丰富多彩的高品质音频点播内容，直播点播，听你想听；作为立足济南面向全国的移动互联网音频平台，兼收并蓄，为优秀自媒体、资深音乐人、草根爱好者提供充分展示的舞台。
+平台在依托忠实广播听众的基础上吸引新用户，筑建了充满活力的用户交流平台。线上交流方便畅通，用户开通属于自己的电台，与主播实时互动，与粉丝在线交流，人人都是节目的参与者。线下互动别具一格，凭借电台的地域优势，吃喝玩乐各种活动邀您参加。
+叮咚fm凭借节目内容，不断延伸定制开发。《美食乐翻天》的美食推荐、订餐预约，《1066城市爱生活》的二手置换，《车行天下》的汽车咨询……为其精心定制专属的功能应用，让平台既好听，又好用。规划中的商城平台，聚合区域资源，借助全媒体的宣传渠道，为商家带来立体全面的信息服务，提供经济便捷的营销推广，助力企业创造新的辉煌。</string>
+	<string name="gongneng">1、七大频率保驾护航，打造广播收听新风尚
+济南电台七大频率占有济南市场份额达75%之多，有庞大的收听群体。手机台将电台节目搬上手机网络，用新媒体的方式拓宽传统广播接收渠道，实现24小时直播陪伴、节目回听点播、听众主播实时互动，让“收听”随时随地、随心所欲。\n
+2、汇聚海量优质资源，网罗特色创意节目
+手机台整合全国优质电台节目资源，网罗分享优秀自媒体节目，相声曲艺、音乐电影、新闻资讯、教育培训……各具特色的内容应有尽有。\n
+3、个性订阅离线收听，一键分享生活乐趣
+手机台及时更新、推送用户订阅的节目，在WIFI环境下保存用户关注的内容，无需担心出门在外“烧钱”的流量。“一键分享”功能，可以将喜爱的音频内容转发到微博、微信、人人等社交网络，与朋友分享声音的魅力。\n
+4、智能多元传媒平台，广告信息精彩呈现
+手机台凭借电台、网络多种渠道，创意运用视频、音频、图片、文字多种手段进行信息推广，使广告信息多彩呈现。\n
+5、电子商务自在交易，会员积分随心选“GO”
+随着平台规模不断扩大，手机台将借助济南电台节目的影响力，深入开发移动电子商务，打造手机交易平台，将用户的会员积分化为商机，开拓商业宣传的想象空间。\n</string>
+	<string name="login">登录</string>
+	<string name="have_a_try">随便看看</string>
+	<string name="not_approved">未审核</string>
+	<string name="default_index">默认首页</string>
+	<string name="love_type_list">喜欢的类型列表</string>
+	<string name="available_type_list">可用的类型列表</string>
+	<string name="find_prog_title">节目分类</string>
+	<string name="find_prog_desc">更多节目类型在这里</string>
+	<string name="find_broadc_title">热播排行</string>
+	<string name="find_broadc_desc">听听大家最喜欢的</string>
+	<string name="find_topic_title">兴趣话题</string>
+	<string name="find_topic_desc">分享一下你的心里话</string>
+	<string name="find_activity_title">精彩活动</string>
+	<string name="find_activity_desc">官方推荐的活动平台</string>
+	<string name="more">更多</string>
+	<string name="grade_make">赚取积分</string>
+	<string name="grade_market">积分商城</string>
+	<string name="path_market">http://www.i-goo.cn/mobile/</string>
+	<string name="grade_activity">积分活动</string>
+	<string name="grade_ranking">达人榜</string>
+	<string name="grade_current">当前积分</string>
+	<string name="my_msg">我的消息</string>
+	<string name="grade_bill">积分账单</string>
+	<string name="grade_exchange">我的兑换券</string>
+	<string-array name="title_drb">
+		<item>分享达人榜</item>
+		<item>评论达人榜</item>
+		<item>转采达人榜</item>
+		<item>上传达人榜</item>
+		<item>粉丝达人榜</item>
+		<item>兑换达人榜</item>
+	</string-array>
+	<string name="your_ranking">您的排名</string>
+	<string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+	<string name="myexchangeticket">我的兑换券</string>
+	<string name="selectticketcount">选择兑换券数量</string>
+	<string name="exchangecount">兑换张数</string>
+	<string name="sureexchange">确认兑换</string>
+	<string name="myscore">我的积分</string>
+	<string name="iknow">知道了</string>
+	<string name="pl_mor_album">查看所属专辑</string>
+	<string name="pl_mor_audio">查看声音详情</string>
+	<string name="pl_mor_report">举报</string>
+	<string name="pl_mor_collect">收藏此声音</string>
+	<string name="chose_operation">请选择需要的操作</string>
+	<string name="zero">0</string>
+	<string name="not_login">您还未登录</string>
+	<string name="to_login_register">轻按即可登录或注册</string>
+		<string name="i_heared">我听过的</string>
+	<string name="my_activity_grade_rank">我的活动积分排名</string>
+</resources>

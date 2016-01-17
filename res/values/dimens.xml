@@ -1,0 +1,57 @@
+<resources>
+	<!-- 通用 -->
+	<dimen name="distance_1dp">1dp</dimen>
+	<dimen name="distance_2dp">2dp</dimen>
+	<dimen name="distance_4dp">4dp</dimen>
+	<dimen name="distance_6dp">6dp</dimen>
+	<dimen name="distance_8dp">8dp</dimen>
+	<dimen name="distance_10dp">10dp</dimen>
+	<dimen name="distance_12dp">12dp</dimen>
+	<dimen name="distance_14dp">14dp</dimen>
+	<dimen name="distance_16dp">16dp</dimen>
+	<dimen name="distance_24dp">24dp</dimen>
+	<dimen name="distance_32dp">32dp</dimen>
+	<dimen name="title_text_size">24sp</dimen>
+	<dimen name="text_size_10sp">10sp</dimen>
+	<dimen name="text_size_12sp">12sp</dimen>
+	<dimen name="text_size_14sp">14sp</dimen>
+	<dimen name="text_size_16sp">16sp</dimen>
+	<dimen name="text_size_18sp">18sp</dimen>
+	<dimen name="text_size_20sp">20sp</dimen>
+	<dimen name="text_size_22sp">22sp</dimen>
+	<dimen name="title_num1_size">22sp</dimen>
+	<dimen name="title_num2_size">16sp</dimen>
+	<dimen name="title_bar_width">45dp</dimen>
+	<dimen name="tab_height">64dp</dimen>
+	<!-- 通用 -->
+	<dimen name="title_bar_height">52dp</dimen>
+	<!-- IME -->
+	<dimen name="input_bar_item_height">44dp</dimen>
+	<dimen name="item_height">42dp</dimen>
+	<dimen name="item_height_no_divide">40dp</dimen>
+	<dimen name="tab_divide_height">32dp</dimen>
+	<dimen name="item_icon">42dp</dimen>
+	<dimen name="emoji_size">25dp</dimen>
+	<dimen name="view_pager_height">90dp</dimen>
+	<!-- cycle indicator -->
+	<dimen name="cycle_indicator_circle_radius">5dp</dimen>
+	<!-- find fragment -->
+	<dimen name="divider_margin">12dp</dimen>
+	<!-- news fragment -->
+	<dimen name="rounded_btn_radius">16dp</dimen>
+	<dimen name="rounded_btn_width">80dp</dimen>
+	<dimen name="rounded_btn_height">32dp</dimen>
+	<dimen name="swipe_listvew_height">80dp</dimen>
+	<dimen name="find_fphh">14sp</dimen>
+	<dimen name="radius_search">4dp</dimen>
+	<dimen name="padding_left_search">16dp</dimen>
+	<dimen name="padding_top_search">8dp</dimen>
+	<dimen name="textsize_search">16sp</dimen>
+	<dimen name="height_notification">80dp</dimen>
+	<dimen name="drag_item_normal_height">48dp</dimen>
+	<dimen name="custom_padd_lr">12dp</dimen>
+	<dimen name="custom_padd_lr_son">18dp</dimen>
+	<dimen name="find_class_title">16sp</dimen>
+	<dimen name="find_class_desc">11sp</dimen>
+	<dimen name="find_hot_des">13sp</dimen>
+</resources>

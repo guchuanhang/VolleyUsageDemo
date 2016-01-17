@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:descendantFocusability="blocksDescendants"
+	android:gravity="center_horizontal"
+	android:orientation="vertical" >
+	<RelativeLayout
+		android:id="@+id/rl_icon_border"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:gravity="center" >
+		<com.android.volley.toolbox.NetworkImageView
+			android:id="@+id/iv_photo"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true"
+			android:background="@drawable/bg_find_item"
+			android:contentDescription="@null"
+			android:padding="1px"
+			android:scaleType="fitXY"
+			android:src="@drawable/default_music" />
+	</RelativeLayout>
+	<TextView
+		android:id="@+id/tv_name"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="-2.5dp"
+		android:includeFontPadding="false"
+		android:lines="2"
+		android:text="@string/app_name"
+		android:textColor="@color/text_color_new"
+		android:textSize="@dimen/find_hot_des" >
+	</TextView>
+</LinearLayout>

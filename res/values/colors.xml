@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="divide_item_inner">#EFEFEF</color>
+	<color name="subtransparent">#3c000000</color>
+	<color name="tab_me">#1a000000</color>
+	<color name="bg_light_grey">#DEDEDE</color>
+	<color name="bg_title_bar_light_blue">#73C6F8</color>
+	<color name="item_text">#666666</color>
+	<color name="smallblue">#68C1FF</color>
+	<!-- 主题颜色 -->
+	<color name="main">#008cfa</color>
+	<color name="main_light">#a3daf9</color>
+	<color name="text_color">#303030</color>
+	<color name="text_color_new">#585858</color>
+	<color name="text_color_grey">#898989</color>
+	<color name="text_color_pressed">#72c5f7</color>
+	<color name="main_bg_color">#eeeeee</color>
+	<color name="light_red">#EE3837</color>
+	<!-- 搜索 -->
+	<color name="search_input_border_color">#e8e8e8</color>
+	<color name="yellow">#F39801</color>
+	<color name="white_grey">#E4E9EB</color>
+	<color name="item_pressed">#DADADA</color>
+	<color name="white_white_gray">#F4F7F9</color>
+	<color name="item_divide">#E8EDF2</color>
+	<color name="orange_red">#FF4500</color>
+	<color name="bg_title_bar">#BCBCBC</color>
+	<color name="title_color">#FFFFFF</color>
+	<!-- 主页 -->
+	<color name="tab_text_color">#82858b</color>
+	<color name="tab_text_select_color">#68C1FF</color>
+	<color name="tab_line_color">#ffd9dfe5</color>
+	<color name="green_blue">#2FB3E4</color>
+	<color name="light_grey">#E0E0E0</color>
+	<!-- 消息 -->
+	<color name="tab_text_select_color2">#68C1FF</color>
+	<color name="tab_text_color2">#82858b</color>
+	<!-- 发布 -->
+	<color name="bg_title_bar2">#BCBCBC</color>
+	<!-- 引导页面 -->
+	<color name="TextColor">#FFFFFF</color>
+	<color name="bgColor">#000000</color>
+	<!-- news fragment -->
+	<color name="rounded_btn_normal">#666666</color>
+	<color name="rounded_btn_pressed">#333333</color>
+	<!-- 搜索页面字体颜色 -->
+	<color name="search_text_color">#FFFFFF</color>
+	<color name="search_text_color_press">#F86442</color>
+	<color name="blue_pure">#0000FF</color>
+	<color name="press_search_color">#F96442</color>
+	<!-- 评论 -->
+	<color name="color_comment_user">#ff5528</color>
+	<color name="color_comment_normal">#585858</color>
+	<color name="release_news_bg">#EEEEEE</color>
+	<color name="text_blue">#008CFB</color>
+	<color name="transparentwhite">#66ffffff</color>
+	<!-- 略透明的白色 -->
+	<color name="transparentblack">#33000000</color>
+	<!-- 略透明的黑色 -->
+	<color name="backgroundblue">#008cfb</color>
+	<!-- 标题背景的蓝色 -->
+	<color name="backgroundgrey">#eeeeee</color>
+	<!-- 灰色 -->
+	<color name="bg_private_msg">#a3afbf</color>
+	<!-- 灰色 -->
+	<color name="delete_color">#ff5528</color>
+	<color name="more_color">#008cfa</color>
+	<color name="search_text_normal">#585858</color>
+	<color name="white">#FFFFFF</color>
+	<color  name="gray">#808080</color>
+	<color  name="grey">#eeeeee</color>
+	<color  name="black">#000000</color>
+	<color  name="transparent">#00ffffff</color>
+	<color  name="divide_custom">#c8c8c8</color>
+	<color  name="find_operate_chosed">#008cfa</color>
+	<color  name="find_operate_unchosed">#cccccc</color>
+	<color  name="drag_item_move">#b2dcfd</color>
+	<color  name="line_border">#cacaca</color>
+	<color  name="divide_item">#757575</color>
+	<color name="result_view">#b0000000</color>
+	<color name="result_minor_text">#ffc0c0c0</color>
+	<color name="result_text">#ffffffff</color>
+	<color name="status_text">#ffffffff</color>
+	<color name="result_image_border">#ffffffff</color>
+	<color name="result_points">#c000ff00</color>
+	<color name="viewfinder_frame">#ff000000</color>
+	<color name="viewfinder_laser">#ffff0000</color>
+	<color name="viewfinder_mask">#60000000</color>
+	<color name="possible_result_points">#c0ffff00</color>
+	<color name="blue_stand">#008cfa</color>
+	<color name="exchangeticketnumbery">#aac403</color>
+	<color name="exchangeticketnumbern">#cacaca</color>
+	<color name="exchangedate">#585858</color>
+</resources>
